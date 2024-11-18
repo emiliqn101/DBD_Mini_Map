@@ -13,7 +13,7 @@
 ## Requirements
 
 - **RUN DEAD BY DAYLIGHT IN WINDOWED BORDERLESS OR WINDOWED MODE** to ensure compatibility.
-- **MAKE SURE THE NAME OF YOUR IMAGE IS "template_image.png" AND IN THE SAME FOLDER**.
+- **Make sure the name of your image is "template_image.png" AND IN THE SAME FOLDER**.
 - Windows OS (for `.exe` compatibility).
 - No installation required – simply run the executables after extracting.
 - **MADE FOR COMP AND SWEATY SWFs**.
