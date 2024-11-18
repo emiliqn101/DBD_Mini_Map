@@ -8,6 +8,14 @@
 - **MiniMap.exe**: Displays the mini-map and offers drawing functions. It always stays on top of any other application.
 - **Global_Key_Listener.exe**: Tracks key presses, toggles between drawing and non-interactive modes, and allows setting the brush color and size.
 
+## Requirements
+
+- **RUN DEAD BY DAYLIGHT IN WINDOWED BORDERLESS OR WINDOWED MODE** to ensure compatibility.
+- **MAKE SURE THE NAME OF YOUR IMAGE IS "template_image.png" AND IN THE SAME FOLDER**.
+- Windows OS (for `.exe` compatibility).
+- No installation required – simply run the executables after extracting.
+- **MADE FOR COMP AND SWEATY SWFs**.
+
 ## Setup and Usage
 
 ### 1. Open `MiniMap.exe`
@@ -40,13 +48,5 @@
 - **Always on Top**: The mini-map will remain visible on top of all other applications for easy reference while working.
 - **Interactive Drawing**: Use the global key listener to toggle between interactive drawing and viewing mode.
 - **Customizable Brush Settings**: Set your preferred brush color and size for drawing on the mini-map.
-
-## Requirements
-
-- **RUN DEAD BY DAYLIGHT IN WINDOWED BORDERLESS OR WINDOWED MODE** to ensure compatibility.
-- **MAKE SURE THE NAME OF YOUR IMAGE IS "template_image.png" AND IN THE SAME FOLDER**.
-- Windows OS (for `.exe` compatibility).
-- No installation required – simply run the executables after extracting.
-- **MADE FOR COMP AND SWEATY SWFs**.
 
 
