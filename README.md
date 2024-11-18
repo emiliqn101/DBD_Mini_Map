@@ -22,7 +22,7 @@
 ## Instructions
 
 1. **Download and Extract the Files**
-   - Download the latest release from the [releases page](#) (provide a link once available).
+   - Download the latest release from the [releases page]([#](https://github.com/emiliqn101/DBD_Mini_Map.git)) (provide a link once available).
    - Extract the files to a folder on your computer.
 
 2. **Launch `MiniMap.exe`**
