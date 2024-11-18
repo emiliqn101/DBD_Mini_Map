@@ -40,7 +40,7 @@
 3. **Launch `Global_Key_Listener.exe`**
    - Double-click `Global_Key_Listener.exe` to start tracking key presses.
    - Use the key press options below to interact with the mini-map:
-     - **Toggle between Draw/Non-Interactive mode** (define specific keys in the project or add options).
+     - **Toggle between Draw/Non-Interactive mode** (M For Toggle Between Modes / C To Clear Image).
      - **Set brush color and size** using the interface or pre-configured hotkeys.
 
 ## Key Features
