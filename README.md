@@ -1,10 +1,10 @@
-# THIS IS JUST A CONCEPT TO BE ADDED - 
-# SYNC MAPS IN REALTIME BETWEEN DIFFERENT PLAYERS 
-# ADD AUTOMATIC HOOK COUNTER ON SCREEN FOR WHEN PLAYING KILLER
+# Program in early stage of development - 
+# *To be added sync maps in realtime between different players 
+# *To be added add automatic hook counter on screen for when playing killer
 # DBD_Mini_Map
 
 **DBD_Mini_Map** is a simple utility for creating a mini-map with interactive drawing features. It includes two executable files that provide key functionalities.
-
+![Alt Text](https://github.com/emiliqn101/DBD_Mini_Map/blob/main/example.gif)
 ## Features
 
 - **MiniMap.exe**: Displays the mini-map and offers drawing functions. It always stays on top of any other application.
@@ -13,7 +13,7 @@
 ## Requirements
 
 - **RUN DEAD BY DAYLIGHT IN WINDOWED BORDERLESS OR WINDOWED MODE** to ensure compatibility.
-- **MAKE SURE THE NAME OF YOUR IMAGE IS "template_image.png" AND IN THE SAME FOLDER**.
+- **Make sure the name of your image is "template_image.png" AND IN THE SAME FOLDER**.
 - Windows OS (for `.exe` compatibility).
 - No installation required – simply run the executables after extracting.
 - **MADE FOR COMP AND SWEATY SWFs**.
@@ -29,6 +29,7 @@
    - Tracks key presses globally to control the drawing behavior.
    - Toggles between **Draw** mode and **Non-Interactive** mode.
    - Allows setting the **brush color** and **brush size** for drawing.
+   - Clears image from drawing if coresponding key is pressed.
 
 ## Instructions
 
@@ -50,5 +51,4 @@
 - **Always on Top**: The mini-map will remain visible on top of all other applications for easy reference while working.
 - **Interactive Drawing**: Use the global key listener to toggle between interactive drawing and viewing mode.
 - **Customizable Brush Settings**: Set your preferred brush color and size for drawing on the mini-map.
-
 
