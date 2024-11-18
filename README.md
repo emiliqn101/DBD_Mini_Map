@@ -29,6 +29,7 @@
    - Tracks key presses globally to control the drawing behavior.
    - Toggles between **Draw** mode and **Non-Interactive** mode.
    - Allows setting the **brush color** and **brush size** for drawing.
+   - Clears image from drawing if coresponding key is pressed.
 
 ## Instructions
 
