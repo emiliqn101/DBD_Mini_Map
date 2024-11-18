@@ -30,11 +30,6 @@ def on_press(key):
         # Handle special keys that don't have a char attribute
         pass
 
-def on_release(key):
-    """Handles key release events."""
-    if key == keyboard.Key.esc:
-        print("ESC key pressed. Exiting...")
-        return False  # Stop the listener
 
 if __name__ == "__main__":
     # Prompt the user to set drawing options
@@ -66,6 +61,6 @@ if __name__ == "__main__":
     settings_message = f"SETTINGS|COLOR:{draw_color}|SIZE:{brush_size}"
     send_pipe_message(settings_message)
 
-    print("Listening for the 'M' key (Toggle Mode), 'C' key (Clear Image), and ESC to exit.")
-    with keyboard.Listener(on_press=on_press, on_release=on_release) as listener:
+    print("Listening for the 'M' key (Toggle Mode), 'C' key (Clear Image)")
+    with keyboard.Listener(on_press=on_press) as listener:
         listener.join()
