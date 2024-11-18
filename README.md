@@ -4,7 +4,7 @@
 # DBD_Mini_Map
 
 **DBD_Mini_Map** is a simple utility for creating a mini-map with interactive drawing features. It includes two executable files that provide key functionalities.
-![Alt Text]([Image_URL](https://github.com/emiliqn101/DBD_Mini_Map/blob/main/Screenshot%20(685).png))
+![Alt Text](https://github.com/emiliqn101/DBD_Mini_Map/blob/main/Screenshot%20(685).png)
 ## Features
 
 - **MiniMap.exe**: Displays the mini-map and offers drawing functions. It always stays on top of any other application.
