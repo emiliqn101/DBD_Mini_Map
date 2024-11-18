@@ -1,7 +1,7 @@
-# THIS IS JUST A CONCEPT TO BE ADDED - 
-# SYNC MAPS IN REALTIME BETWEEN DIFFERENT PLAYERS 
-# ADD AUTOMATIC HOOK COUNTER ON SCREEN FOR WHEN PLAYING KILLER
-# DBD_Mini_Map
+# Program in early stage of development - 
+# To be Added **SYNC MAPS IN REALTIME BETWEEN DIFFERENT PLAYERS 
+# To be Added **ADD AUTOMATIC HOOK COUNTER ON SCREEN FOR WHEN PLAYING KILLER
+# To be Added **DBD_Mini_Map
 
 **DBD_Mini_Map** is a simple utility for creating a mini-map with interactive drawing features. It includes two executable files that provide key functionalities.
 ![Alt Text](https://github.com/emiliqn101/DBD_Mini_Map/blob/main/Screenshot%20(684).png)
