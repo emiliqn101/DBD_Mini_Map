@@ -22,7 +22,7 @@
 ## Instructions
 
 1. **Download and Extract the Files**
-   - Download the latest release from the [releases page]([#](https://github.com/emiliqn101/DBD_Mini_Map.git)).
+   - Download the latest release from the [releases page](https://github.com/emiliqn101/DBD_Mini_Map/releases).
    - Extract the files to a folder on your computer.
 
 2. **Launch `MiniMap.exe`**
@@ -42,8 +42,8 @@
 
 ## Requirements
 
-- RUN DEAD BY DAYLIGHT IN WINDOWED BORDERLESS OR WINDOWED MODE
+- **RUN DEAD BY DAYLIGHT IN WINDOWED BORDERLESS OR WINDOWED MODE** to ensure compatibility.
 - Windows OS (for `.exe` compatibility).
 - No installation required – simply run the executables after extracting.
-
+- **FOR COMP AND SWEATY SWFs**.
 
